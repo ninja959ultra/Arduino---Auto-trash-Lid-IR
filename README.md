@@ -8,4 +8,4 @@ Additionally, if an object is detected within 30 cm by the ultrasonic sensor, th
 After 4 seconds, the lid closes again and the LED turns off.
 
 
-![Smart Trash Can](Arduino project auto trash lid PART1.jpeg)
+![Smart Trash Can](Arduino_project_auto_trash_lid_PART1.jpeg)
